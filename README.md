@@ -6,7 +6,7 @@ I am a fast learner and a self-starter person with a strong passion for technolo
 
 ## Taking about personal stuff:
 
-- 🚀   I am currently learning how to be every day a better software engineer and a leader;
+- 🚀   I am currently learning how to be a better software engineer and leader (there is always room for improvement);
 - 💬   [Ask me anything](https://github.com/mpetrinidev/mpetrinidev/issues), I am happy to help;
 - ✍️    I regularly write articles on [dev.to](https://dev.to/mpetrinidev);
 - 🔗   I share my thoughts and technical stuff on my [LikedIn profile](https://www.linkedin.com/in/mpetrinidev/);
