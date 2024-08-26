@@ -1,1 +1,1 @@
-### Be kind. Stay curious. Be passionate. Never stop learning & keep coding.
+# What did you get done this week?
